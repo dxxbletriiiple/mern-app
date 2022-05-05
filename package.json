@@ -1,0 +1,26 @@
+{
+  "name": "mern-app",
+  "version": "1.0.0",
+  "description": "Some app using MERN stack, that deployed to heroku",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxxbletriiiple/mern-app.git"
+  },
+  "keywords": [
+    "NODEJS",
+    "JS",
+    "JavaScript",
+    "MongoDB",
+    "Express"
+  ],
+  "author": "dxxbletriiiple <dxxbletriiiple@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dxxbletriiiple/mern-app/issues"
+  },
+  "homepage": "https://github.com/dxxbletriiiple/mern-app#readme"
+}
